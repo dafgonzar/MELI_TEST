@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4ynuu6bVmaPZiA+OsRArndW2F+a6Uw+tDFl6cGeB5G4=",
+  "Source": "MeliTest.Api",
+  "BasePath": "_content/MeliTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
