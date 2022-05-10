@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "AU2VV8tuBIm3ibZ+QcJbF4+dk10p1vFq6+ZL+rQapGqH06bbSOlPdLvYcn5X0wSc3pp3zoRrRMj58laWHU6akw==",
+=======
+  "dgSpecHash": "1NL0gnPV/lNDj2Fbb4M4BDX82/hbTiFMl+HMR84BF5hBFFy5ePxKQfnn8WY6iJDxaO3OBTosY3gr8qSMm+PvZg==",
+>>>>>>> 54784cebd8d1acdf2958438d60a58f1f59f84fc9
   "success": true,
-  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Api\\MeliTest.Api.csproj",
+  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Api\\MeliTest.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoporteTI\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj": {}
+    "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -71,13 +72,16 @@
       }
     },
     "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj": {
+=======
+    "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
+>>>>>>> 54784cebd8d1acdf2958438d60a58f1f59f84fc9
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
-        "projectName": "MeliTest.UnitTest",
-        "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
+        "projectName": "MeliTest.Core",
+        "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
         "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,6 +100,76 @@
             "projectReferences": {
               "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
                 "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
+        "projectName": "MeliTest.UnitTest",
+        "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
+                "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj"
               }
             }
           }

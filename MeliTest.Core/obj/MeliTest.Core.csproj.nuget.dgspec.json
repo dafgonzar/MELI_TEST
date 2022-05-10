@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {}
+    "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
+    "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
+        "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
         "projectName": "MeliTest.Core",
-        "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
+        "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
         "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\obj\\",
+        "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
