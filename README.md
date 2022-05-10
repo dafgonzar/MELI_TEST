@@ -19,5 +19,5 @@ Steps to run local application
   7. After you install Sql Server Express Edition you can configurated a user to connect the server, this user and password should be on file appsettings.json.
   8. Then you need import the data base backup that i shared.
   9. After download code in visual studio and make the step 7, you click to run button and thats it.
-  10. Import the postman collection that i shared.
+  10. Import the postman collection that i shared or use swagger when run application.
   11. Send the Http request to a specific method.
