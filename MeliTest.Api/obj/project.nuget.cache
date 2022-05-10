@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pkRV4JaFF1GjGxSByTk8XsemddglXGTG01caWBi5lO01IItGapNzCoh/lTQwdx9oPXRM3T/aDYao2HWtXMYfjw==",
+  "dgSpecHash": "AU2VV8tuBIm3ibZ+QcJbF4+dk10p1vFq6+ZL+rQapGqH06bbSOlPdLvYcn5X0wSc3pp3zoRrRMj58laWHU6akw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Api\\MeliTest.Api.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
