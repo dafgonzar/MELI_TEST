@@ -2219,6 +2219,19 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MeliTest.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4"
+        },
+        "compile": {
+          "bin/placeholder/MeliTest.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeliTest.Core.dll": {}
+        }
       }
     }
   },
@@ -7601,10 +7614,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MeliTest.Core/1.0.0": {
+      "type": "project",
+      "path": "../MeliTest.Core/MeliTest.Core.csproj",
+      "msbuildProject": "../MeliTest.Core/MeliTest.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MeliTest.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.4",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
@@ -7639,7 +7658,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj": {
+              "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

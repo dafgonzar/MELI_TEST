@@ -12,6 +12,11 @@ namespace MeliTest.Core.Services
     public class ContainersService : IContainerService
     {
         private readonly IContainerRepository _divisionRepository;
+
+        public ContainersService()
+        {
+        }
+
         public ContainersService(IContainerRepository divisionRepository)
         {
             _divisionRepository = divisionRepository;
