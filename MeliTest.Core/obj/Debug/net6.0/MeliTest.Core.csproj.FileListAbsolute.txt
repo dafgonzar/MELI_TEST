@@ -40,3 +40,17 @@ C:\Users\SoporteTI\source\repos\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\refint\
 C:\Users\SoporteTI\source\repos\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.pdb
 C:\Users\SoporteTI\source\repos\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.genruntimeconfig.cache
 C:\Users\SoporteTI\source\repos\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\ref\MeliTest.Core.dll
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\bin\Debug\net6.0\MeliTest.Core.deps.json
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\bin\Debug\net6.0\MeliTest.Core.runtimeconfig.json
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\bin\Debug\net6.0\MeliTest.Core.dll
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\bin\Debug\net6.0\MeliTest.Core.pdb
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.AssemblyInfo.cs
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.dll
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\refint\MeliTest.Core.dll
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.pdb
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\MeliTest.Core.genruntimeconfig.cache
+C:\Users\SoporteTI\source\repos\MEli\MELI_TEST\MeliTest.Core\obj\Debug\net6.0\ref\MeliTest.Core.dll

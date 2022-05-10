@@ -25,4 +25,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MeliTest.Core\MeliTest.Core.csproj" />
+  </ItemGroup>
+
 </Project>

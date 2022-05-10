@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SZOY8PocMcSHFXX7Vnc1qWWyBRgsEh3y6Ut9Y4NQ2if4X9/tVS8pSvYHlICkLwQiYpuESnlXHhIoUjbLcG6XGQ==",
+  "dgSpecHash": "Ifh1kwdLtU0PHTPs6SHccKE/dEYyUpGrI67k0ej7o6ChdcfmdDfkcn/HSvIfhiWXqHwSQ7x7krJN8ug2Duc1XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
+  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.Core\\MeliTest.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoporteTI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

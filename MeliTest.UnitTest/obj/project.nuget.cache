@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDTmS54tumXTZvo9UdVWm0J65+VXey+WRU2DuThAVQiTQ1URhZLarDnr6O6LXMck0ZyQjfJ/AAjVL1gS940pDQ==",
+  "dgSpecHash": "dwjGHicOxez/mHKGb38OngV1B5VLbzU38B1wFrlxxC6rUH+BkqHV0QdwJ54z/Jc5yFh1SE6bQEKtF/6LQfh3yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.UnitTest\\MeliTest.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoporteTI\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

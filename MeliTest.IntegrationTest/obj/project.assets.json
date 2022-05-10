@@ -7619,11 +7619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.IntegrationTest\\MeliTest.IntegrationTest.csproj",
+      "projectUniqueName": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.IntegrationTest\\MeliTest.IntegrationTest.csproj",
       "projectName": "MeliTest.IntegrationTest",
-      "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.IntegrationTest\\MeliTest.IntegrationTest.csproj",
+      "projectPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.IntegrationTest\\MeliTest.IntegrationTest.csproj",
       "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\Test Meli\\MELI_TEST\\MeliTest.IntegrationTest\\obj\\",
+      "outputPath": "C:\\Users\\SoporteTI\\source\\repos\\MEli\\MELI_TEST\\MeliTest.IntegrationTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
