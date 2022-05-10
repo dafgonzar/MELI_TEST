@@ -32,5 +32,46 @@ namespace MeliTest.UnitTest.Services
             //Assert
             Assert.True(isValid);
         }
+
+        [Fact]
+        public void GetStats()
+        {
+            //Arrange
+            var containersService = new ContainersService();
+            int budgetUsed = 1610;
+            bool isValid = false;
+
+            //Act
+            var containersStats = containersService.GetStats(budgetUsed);
+            if (containersStats != null)
+            {
+                isValid = true;
+            }
+            //Assert
+            Assert.True(isValid);
+        }
+
+        [Fact]
+        public void PostContainers()
+        {
+            //Arrange
+            var containersService = new ContainersService();
+            TbContenedores tbContenedor = new TbContenedores { 
+                        NombreContenedor = "C7",
+                        CostoTransporte = 551,
+                        ValorContainer = 13224
+
+            };
+            bool isValid = false;
+
+            //Act
+            var containersStats = containersService.Insert(tbContenedor);
+            if (containersStats != null)
+            {
+                isValid = true;
+            }
+            //Assert
+            Assert.True(isValid);
+        }
     }
 }
